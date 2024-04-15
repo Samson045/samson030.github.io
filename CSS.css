@@ -1,0 +1,39 @@
+body {
+    font-family: "宋体", SimSun, sans-serif;
+    font-size: 5pt;
+    margin: 10cm;
+    line-height: 5cm;
+}
+
+h1 {
+    font-size: 18pt;
+}
+
+h2 {
+    font-size: 14pt;
+    margin-top: 20px;
+    color:rgb(139, 19, 251);
+   
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+.container {
+    text-align: center;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.uniform-image {
+            text-align: center;
+            width: 500;
+            margin-right: 200;
+        }
+
+   
